@@ -8,17 +8,21 @@
 
 <h5> The last and smallest</h5>
 
+<hr>
+<hr>
 
 2. Nesting Tags
 <div> 
     This div contains this text and the div tag below
-    <div> Hi, I'm the div tag that was mentioned in my parent div!! I contaion this text an two other children lives</div>
+    <div> Hi, I'm the div tag that was mentioned in my parent div!! I contain this text an two other children lives</div>
     <div> Hi! Our parent was just talking about us. indent properly</div>
     <div> Hi! Our parent was just talking about us. indent properly</div>
-    </div>
+<hr>
+<hr>
+<hr>
 
-    3. Lists
-    <p> <b>Every Day is a good day why</b></p>
+3. Lists
+       <p> <b>Every Day is a good day why</b></p>
     <ul>
         <li>COR</li>
         <li>Digital Crafts</li>
@@ -31,3 +35,15 @@
         <li>Liberty</li>
         <li>Opportunity</li>
     </ol>
+<hr>
+<hr>
+<hr>
+<hr>
+
+4. Lines
+<hr>
+
+
+
+
+
