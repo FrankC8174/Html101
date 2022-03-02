@@ -16,3 +16,18 @@
     <div> Hi! Our parent was just talking about us. indent properly</div>
     <div> Hi! Our parent was just talking about us. indent properly</div>
     </div>
+
+    3. Lists
+    <p> <b>Every Day is a good day why</b></p>
+    <ul>
+        <li>COR</li>
+        <li>Digital Crafts</li>
+        <li>learning new skills</li>
+    </ul>
+
+    <p>Furthermore let me add <i</p>
+    <ol>
+        <li>Life</li>
+        <li>Liberty</li>
+        <li>Opportunity</li>
+    </ol>
